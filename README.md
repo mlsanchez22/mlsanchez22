@@ -12,7 +12,7 @@
 ### 🚀 About Me
 - 🔬 PhD in Advanced Computing, specialized in **Supercomputing**, **Data Science** and **Systems Biology**.
 - 🧬 Passionate about **omics data analysis**, **signal transduction modeling**, and **personalized medicine**.
-- 🌍 International research experience across **Spain**, **Italy**, **United Kingdom**, and **Chile**.
+- 🌍 International research experience across **Germany**, **France**, **Italy**, **United Kingdom**, and **Chile**.
 - 💻 Skilled in **Python**, **R**, **scientific computing**, and **pathway-based transcriptomics**.
 
 ---
