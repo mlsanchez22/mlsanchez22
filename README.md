@@ -50,6 +50,5 @@
 
 ---
 
-> “What if instead of planning so much, we flew a little higher?” 🕊️
-
+> "¿Y si en vez de planear tanto voláramos un poco más alto?" Mafalda, Quino. 
 ---
